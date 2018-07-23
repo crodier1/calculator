@@ -1,0 +1,81 @@
+html,
+body {
+  background-image: url("https://s23527.pcdn.co/wp-content/uploads/2017/05/Screenshot-2017-05-30-12.04.01.png");
+  background-size: 100%
+  
+}
+
+#title {
+  font-family: "Jura";
+}
+
+h1 {
+  font-size: 50px;
+  border-style: Solid;
+  width: 350px;
+  background-color:white;
+  border-radius: 0.2em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+#display1 {
+  width: 400px;
+  height: 100px;
+  background-color: gray;
+  margin-left: auto;
+  margin-right: auto;
+  border-top-left-radius: 2em;
+  border-top-right-radius: 2em;
+  border-style: solid;
+}
+
+#display2 {
+  margin-left: 15px;
+  margin-top: 15px;
+  font-size: 60px;
+  font-family: "Jura";
+}
+
+#cal {
+  background-color: grey;
+  width: 400px;
+  height: 420px;
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom-left-radius: 2em;
+  border-bottom-right-radius: 2em;
+  border-style: solid;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+a {
+  width: 5vw;
+  height: 5vw;
+  margin: 5px;
+  
+}
+
+#AC, #CE{
+    font-size: 2.2em;
+}
+
+#calText {
+  color: white;
+  font-family: "Jura";
+}
+
+.btn {
+  font-size: 3vw;
+  border-radius: 5em;
+}
+
+.bigButton{
+  width: 155px;
+}
+
+p{
+  color: white;
+}
