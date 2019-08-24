@@ -74,4 +74,3 @@ $(document).ready(function(){
       }
     })
   });
-  //why didn't I just do an eval()?
